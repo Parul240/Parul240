@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Parul Sharma</h1>
-<h3 align="center">Student</h3>
+<h3 align="center">👩‍🎓 Student 👩‍🎓</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parul240&label=Profile%20views&color=0e75b6&style=flat" alt="parul240" /> </p>
 
@@ -10,6 +10,7 @@
 
 - ☕ **Coffee can be the ultimate solution for any stress.
        <p>Coffee <-> Code**
+- 😊 **Pronouns: She/Her**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
