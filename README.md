@@ -14,7 +14,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/parulsharma2406" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="parul sharma" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/parulsharma2406" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="parul sharma" height="30" width="40" /></a>
+<a href="https://facebook.com/in/profile.php?id=100025092549840" traget="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="parul sharma" height="30" width="40" /></a>
 <a href="https://instagram.com/parulsharmaofficial24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="parulsharmaofficial24" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/parulsharma024" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="parulsharma024" height="30" width="40" /></a>
 </p>
