@@ -6,7 +6,7 @@
 - 💬 **Ask me about anything, I'll be happy to help!**
 - 💬 **My inbox is always open, contact me**
 
-- 📫 **How to reach me:** **Parulsharma2406@gmail.com**
+- 📫 **How to reach me:** **parulsharma2406@gmail.com**
 
 - ☕ **Coffee can be the ultimate solution for any stress.
        <p>Coffee <-> Code**
